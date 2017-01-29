@@ -100,7 +100,7 @@ class Index extends Component {
                 <div className="col-sm-10 col-lg-11 push-sm-2 push-lg-1 home h-100">
                   <div className="home-top row justify-content-end">
                     <div className="col-lg d-flex align-items-end">
-                      <h1 className="display-3">Reid Roman <small className="text-muted">Photography</small></h1>
+                      <h1 className="display-3">Daniel Mullins <small className="text-muted">Photography</small></h1>
                     </div>
                     <div className="col-lg-auto d-flex align-items-end">
                       <ul className="nav">
@@ -194,9 +194,9 @@ class Index extends Component {
         <div className="modal fade contact-modal">
           <div className="modal-dialog modal-lg" role="document">
             <div className="modal-content">
-              <form id="contact-me" action="https://formspree.io/mailto@reidroman.com" method="POST">
+              <form id="contact-me" action="https://formspree.io/mailto@DanielMullins.com" method="POST">
                 <div className="modal-header">
-                  <h5 className="modal-title">Contact Reid</h5>
+                  <h5 className="modal-title">Contact Daniel</h5>
                 </div>
                 <div className="modal-body">
                   <div className="form-group">
@@ -229,11 +229,11 @@ class Index extends Component {
           <div className="modal-dialog modal-lg" role="document">
             <div className="modal-content">
               <div className="modal-header">
-                <h5 className="modal-title">About Reid</h5>
+                <h5 className="modal-title">About Daniel</h5>
               </div>
               <div className="modal-body">
                 <p>
-                  An avid perceiver of light, Reid finds beauty in contrast and
+                  An avid perceiver of light, Daniel finds beauty in contrast and
                   relief.
                 </p>
               </div>

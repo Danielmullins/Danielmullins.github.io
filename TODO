@@ -1,9 +1,18 @@
-final nextImg
-mobile/tablet
-contact modal hookup
-about modal copy
-modal style
-metadata
-favicon
-search result display
-ssl cert
+TODO
+
+setup formspree
+add photos to img/JPEG
+
+to deploy
+
+git add .
+git commit -m 'i did a thing'
+git push
+
+to run
+
+[in terminal (these are commands you run in a terminal (press enter to run commands))]
+cd Danielmullins.github.io
+./node_modules/.bin/webpack-dev-server
+[in a browser like chrome]
+http://localhost:8080/webpack-dev-server/
